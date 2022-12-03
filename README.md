@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi ForgottenZ here 👋你好，我是ForgottenZ。
+我要急了，我写了半天的readme没保存，开摆
 <!--
 **ForgottenZ/ForgottenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
